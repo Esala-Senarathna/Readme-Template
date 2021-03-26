@@ -15,26 +15,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+    <img src="readmeImages/med.png" alt="Logo" width="200" height="auto">
 
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">Online Pharmaceutical product distribution System for Pharmac (PVT).Ltd.</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Project overview and installation instructions
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -80,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -96,17 +86,32 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Vue JS](https://vuejs.org/)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
+
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://vuejs.org/images/logo.png" width="150"></a></p>
+
+<p align="center">Vue JS</p>
+
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In order to be fully funtional and uprunning the following should be followed
 
 ### Prerequisites
 
@@ -118,16 +123,16 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repository
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/salukadev/Pharmac-OMS.git
    ```
-3. Install NPM packages
+2. Install Composer packages
    ```sh
-   npm install
+   composer install
    ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -143,19 +148,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
-
+ -->
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
+1. Clone the project (`git clone https://github.com/salukadev/Pharmac-OMS.git`)
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
@@ -175,7 +180,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/salukadev/Pharmac-OMS.git)
+
+## Our Team
+* Saluka Udbhasa - [salukadev](https://github.com/salukadev)
+* Esala Senarathna - [Esala-Senarathna](https://github.com/Esala-Senarathna)
+* Danuja Wijerathne - [danuja-wije](https://github.com/danuja-wije)
+* Salitha Tennakoon - [salitha10](https://github.com/salitha10)
+* Parami Lelkada - [pLe98](https://github.com/pLe98)
+* Manoj Rangana - [RanganaPWM](https://github.com/RanganaPWM)
+* Kavindya Perera - [kavindya-perera](https://github.com/kavindya-perera)
+* Ridma Reshan - [ridma11](https://github.com/ridma11)
 
 
 
