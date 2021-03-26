@@ -68,7 +68,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## :pill:About The Project
+## :syringe:About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
