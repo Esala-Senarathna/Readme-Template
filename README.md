@@ -68,7 +68,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## :syringe:About The Project
+## :syringe: About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
@@ -83,7 +83,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+###:syringe:Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Vue JS](https://vuejs.org/)
@@ -109,7 +109,7 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## :syringe: Getting Started
 
 In order to be fully funtional and uprunning the following should be followed
 
@@ -140,7 +140,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## :syringe: Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -156,7 +156,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
  -->
 
 <!-- CONTRIBUTING -->
-## Contributing
+## :syringe: Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -169,7 +169,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## :syringe: License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
@@ -182,7 +182,7 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/salukadev/Pharmac-OMS.git)
 
-## Our Team
+## :syringe: Our Team
 * Saluka Udbhasa - [salukadev](https://github.com/salukadev)
 * Esala Senarathna - [Esala-Senarathna](https://github.com/Esala-Senarathna)
 * Danuja Wijerathne - [danuja-wije](https://github.com/danuja-wije)
@@ -195,7 +195,7 @@ Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## :syringe: Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
