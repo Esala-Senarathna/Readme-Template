@@ -60,7 +60,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Our Team</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -94,7 +94,7 @@ This section should list any major frameworks that you built your project using.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://vuejs.org/images/logo.png" width="150"></a></p>
 
-<p align="center">Vue JS</p>
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
@@ -115,12 +115,16 @@ In order to be fully funtional and uprunning the following should be followed
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+The following applications must be installed
+* Xampp server with php version 8.0
+* MySQL server
+* Latest version of composer installed
+* Node Package Manager(npm)
+<!--
   ```sh
   npm install npm@latest -g
   ```
-
+-->
 ### Installation
 
 
@@ -132,10 +136,31 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    composer install
    ```
-3. Enter your API in `config.js`
+3. Add `.env` file and copy the content from `.env.example` file   
+4. Configure the database in `.env` file
+   ```sh
+   DB_CONNECTION=mysql
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE='Your Database name'
+   DB_USERNAME='your db username'
+   DB_PASSWORD='Your db password'
+   ```
+5. Generate keys
+   ```sh
+   php artisan key:generate
+   ```
+6. Run development serve
+   ```sh
+   php artisan optimize
+   php artisan serve
+ 
+<!--   ```
+7. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
+   -->
 
 
 
@@ -175,13 +200,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
+<!-- CONTACT 
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/salukadev/Pharmac-OMS.git)
-
+-->
 ## :syringe: Our Team
 * Saluka Udbhasa - [salukadev](https://github.com/salukadev)
 * Esala Senarathna - [Esala-Senarathna](https://github.com/Esala-Senarathna)
@@ -194,7 +219,7 @@ Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS
 ## :syringe: Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -208,7 +233,7 @@ Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 
-
+ -->
 
 
 
