@@ -131,21 +131,25 @@ The following applications must be installed
    ```sh
    composer install
    ```
-3. Add `.env` file and copy the content from `.env.example` file   
-4. Configure the database in `.env` file
+3. Install Node Package manager packages
+   ```sh
+   npm install
+   ```
+4. Add `.env` file and copy the content from `.env.example` file   
+5. Configure the database in `.env` file
    ```sh
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE='Your Database name'
-   DB_USERNAME='your db username'
-   DB_PASSWORD='Your db password'
+   DB_DATABASE='Your database name'
+   DB_USERNAME='Your database username'
+   DB_PASSWORD='Your database password'
    ```
-5. Generate keys
+6. Generate keys
    ```sh
    php artisan key:generate
    ```
-6. Run development serve
+7. Run development serve
    ```sh
    php artisan optimize
    php artisan serve
@@ -214,21 +218,11 @@ Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/
 
 
 
-<!-- ACKNOWLEDGEMENTS
+<!-- ACKNOWLEDGEMENTS  -->
 ## :syringe: Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
- -->
+
+
 
 
 
