@@ -99,7 +99,9 @@ This section should list any major frameworks that you built your project using.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+* Database : [MySQL](https://www.mysql.com/)
 
+<p align="center"><a href="https://www.mysql.com/" target="_blank"><img src="readmeImages/pngegg.png" width="200"></a></p>
 
 
 
