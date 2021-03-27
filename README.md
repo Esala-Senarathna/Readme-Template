@@ -60,8 +60,8 @@
     <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
 
@@ -208,6 +208,15 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/salukadev/Pharmac-OMS.git)
 -->
+
+<!-- ACKNOWLEDGEMENTS  -->
+## Acknowledgements
+
+<p align="center"><a href="https://www.sliit.lk/" target="_blank"><img src="readmeImages/SLIIT_Logo_Crest.png" width="100"></a></p>
+
+This is a project done for the Information Technology project module of BSc.(Hons.) Degree in Information Technology in Sri Lanka Institute of Information Technology
+
+
 ## Contributors
 * IT19188928 - Saluka Udbhasa - [salukadev](https://github.com/salukadev)
 * IT19142838 - Esala Senarathna - [Esala-Senarathna](https://github.com/Esala-Senarathna)
@@ -220,12 +229,6 @@ Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/
 
 
 
-<!-- ACKNOWLEDGEMENTS  -->
-## Acknowledgements
-
-<p align="center"><a href="https://www.sliit.lk/" target="_blank"><img src="readmeImages/SLIIT_Logo_Crest.png" width="100"></a></p>
-
-This is a project done for the Information Technology project module of BSc.(Hons.) Degree in Information Technology in Sri Lanka Institute of Information Technology
 
 
 
