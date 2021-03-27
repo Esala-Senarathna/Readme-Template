@@ -57,18 +57,18 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Our Team</a></li>
-  <!--  <li><a href="#acknowledgements">Acknowledgements</a></li> -->
+    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## :syringe: About The Project
+## About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
@@ -83,7 +83,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### :syringe: Built With
+### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * Front-end : [Vue JS 3](https://vuejs.org/)
@@ -104,7 +104,7 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## :syringe: Getting Started
+## Getting Started
 
 In order to be fully funtional and uprunning the following should be followed
 
@@ -164,7 +164,7 @@ The following applications must be installed
 
 
 <!-- USAGE EXAMPLES -->
-## :syringe: Usage
+## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -180,7 +180,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
  -->
 
 <!-- CONTRIBUTING -->
-## :syringe: Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -193,7 +193,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## :syringe: License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
@@ -206,7 +206,7 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/salukadev/Pharmac-OMS.git)
 -->
-## :syringe: Contributors
+## Contributors
 * IT19188928 - Saluka Udbhasa - [salukadev](https://github.com/salukadev)
 * IT19142838 - Esala Senarathna - [Esala-Senarathna](https://github.com/Esala-Senarathna)
 * IT19957180 - Danuja Wijerathne - [danuja-wije](https://github.com/danuja-wije)
@@ -219,7 +219,7 @@ Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/
 
 
 <!-- ACKNOWLEDGEMENTS  -->
-## :syringe: Acknowledgements
+## Acknowledgements
 
 <p align="center"><a href="https://www.sliit.lk/" target="_blank"><img src="readmeImages/SLIIT_Logo_Crest.png" width="100"></a></p>
 
