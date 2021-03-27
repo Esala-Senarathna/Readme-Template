@@ -221,8 +221,9 @@ Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/
 <!-- ACKNOWLEDGEMENTS  -->
 ## :syringe: Acknowledgements
 
+<p align="center"><a href="https://www.sliit.lk/" target="_blank"><img src="readmeImages/SLIIT_Logo_Crest.png" width="100"></a></p>
 
-
+This is a project done for the Information Technology project module of BSc.(Hons.) Degree in Information Technology in Sri Lanka Institute of Information Technology
 
 
 
