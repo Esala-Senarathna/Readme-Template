@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="readmeImages/med.png" alt="Logo" width="200" height="auto">
+    <img src="readmeImages/med.png" alt="Logo" width="250" height="auto">
 
   <h1 align="center">Online Pharmaceutical product distribution System for Pharmac (PVT).Ltd.</h3>
 
