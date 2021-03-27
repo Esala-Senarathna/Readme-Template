@@ -61,7 +61,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Our Team</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  <!--  <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
 
@@ -93,6 +93,7 @@ This section should list any major frameworks that you built your project using.
 
 <p align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" width="150"></a></p>
 
+<p align="center"><a href="https://npmjs.com/package/vue-github-badge" rel="nofollow"><img src="https://img.shields.io/npm/v/vue-github-badge.svg?style=flat" alt="NPM version"></a> <a href="https://npmjs.com/package/vue-github-badge" rel="nofollow"><img src="https://img.shields.io/npm/dm/vue-github-badge.svg?style=flat" alt="NPM downloads"></a> <a href="https://circleci.com/gh/egoist/vue-github-badge" rel="nofollow"><img src="https://img.shields.io/circleci/project/egoist/vue-github-badge/master.svg?style=flat" alt="Build Status"></a> </p>
 
 * Back-end : [Laravel](https://laravel.com)
 
