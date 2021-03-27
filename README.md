@@ -86,16 +86,15 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### :syringe: Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Vue JS](https://vuejs.org/)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://vuejs.org/images/logo.png" width="150"></a></p>
+* Front-end : [Vue JS](https://vuejs.org/)
 
 
 
+
+<p align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" width="150"></a></p>
+
+
+* Back-end : [Laravel](https://laravel.com)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
