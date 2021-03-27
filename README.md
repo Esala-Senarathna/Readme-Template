@@ -86,25 +86,20 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### :syringe: Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* Front-end : [Vue JS](https://vuejs.org/)
+* Front-end : [Vue JS 3](https://vuejs.org/)
 
 
 
 
 <p align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" width="150"></a></p>
 
-<p align="center"><a href="https://npmjs.com/package/vue-github-badge" rel="nofollow"><img src="https://img.shields.io/npm/v/vue-github-badge.svg?style=flat" alt="NPM version"></a> <a href="https://npmjs.com/package/vue-github-badge" rel="nofollow"><img src="https://img.shields.io/npm/dm/vue-github-badge.svg?style=flat" alt="NPM downloads"></a> <a href="https://circleci.com/gh/egoist/vue-github-badge" rel="nofollow"><img src="https://img.shields.io/circleci/project/egoist/vue-github-badge/master.svg?style=flat" alt="Build Status"></a> </p>
 
-* Back-end : [Laravel](https://laravel.com)
+
+* Back-end : [Laravel 8](https://laravel.com)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+
 
 
 
@@ -207,15 +202,15 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/salukadev/Pharmac-OMS.git](https://github.com/salukadev/Pharmac-OMS.git)
 -->
-## :syringe: Our Team
-* Saluka Udbhasa - [salukadev](https://github.com/salukadev)
-* Esala Senarathna - [Esala-Senarathna](https://github.com/Esala-Senarathna)
-* Danuja Wijerathne - [danuja-wije](https://github.com/danuja-wije)
-* Salitha Tennakoon - [salitha10](https://github.com/salitha10)
-* Parami Lelkada - [pLe98](https://github.com/pLe98)
-* Manoj Rangana - [RanganaPWM](https://github.com/RanganaPWM)
-* Kavindya Perera - [kavindya-perera](https://github.com/kavindya-perera)
-* Ridma Reshan - [ridma11](https://github.com/ridma11)
+## :syringe: Contributors
+* IT19188928 - Saluka Udbhasa - [salukadev](https://github.com/salukadev)
+* IT19142838 - Esala Senarathna - [Esala-Senarathna](https://github.com/Esala-Senarathna)
+* IT19957180 - Danuja Wijerathne - [danuja-wije](https://github.com/danuja-wije)
+* IT19955896 - Salitha Tennakoon - [salitha10](https://github.com/salitha10)
+* IT19001708 - Parami Lelkada - [pLe98](https://github.com/pLe98)
+* IT19987880 - Manoj Rangana - [RanganaPWM](https://github.com/RanganaPWM)
+* IT19987712 - Kavindya Perera - [kavindya-perera](https://github.com/kavindya-perera)
+* IT19955896 - Ridma Reshan - [ridma11](https://github.com/ridma11)
 
 
 
